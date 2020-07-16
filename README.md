@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>I'm Ramazan Nejdet Sarıkaya. I'm a computer engineer from Turkey. I ❤️ to code with <code><a href="https://www.python.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code> and <code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>.</p>
+<p><a href="https://www.linkedin.com/in/r-nejdet-sar%C4%B1kaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/necsrky/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://gitlab.com/necsrky"><img height="25" src="https://img.shields.io/badge/GitLab-%F2F0F0.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
+  
+[![Gmail Badge](https://img.shields.io/badge/-necsrky@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necsrky@gmail.com)](mailto:necsrky@gmail.com)
+
+![Nejdet's github stats](https://github-readme-stats.vercel.app/api?username=rnejdetsarikaya&show_icons=true&line_height=30)
